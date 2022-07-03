@@ -13,6 +13,7 @@
   $ git clone https://github.com/Aldi098/Crack
   $ cd Crack
   $ python crack.py
+  Kalian pilih no 2 masukin nama file id.txt
   ```
   </details>
 
