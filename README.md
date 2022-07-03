@@ -15,7 +15,6 @@
   $ python crack.py
   ```
   </details>
-  - Tampilan Script
 
   ```bash
    Tampilan Awal Script
