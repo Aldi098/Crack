@@ -21,10 +21,10 @@
    Tampilan Awal Script
   ```
 
-  ![NvChad]()
+  ![NvChad](https://github.com/Aldi098/Crack/blob/main/IMG_20220703_222300.jpg)
 
   ```bash
    Hasil Dari Script
   ```
 
-  ![NvChad]()
+  ![NvChad](https://github.com/Aldi098/Crack/blob/main/IMG_20220703_222348.jpg)
